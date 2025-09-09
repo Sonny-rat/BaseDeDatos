@@ -1,0 +1,12 @@
+Yo pensé que tardaría en hacer el código y todo lo que esto lleva como entender los archivos csv, y comprender el problema, etc. Conllevaría unas 5-6 horas.
+Al final si fue algo así ya que desde que salí de la universidad estuve investigando mas a parte intentar hacer que el código funcione correctamente así como 
+pasar de Intellij a Apache, ya que me habían recomendado el utilizar este otro programa pero solo termine batallando un poco mas, también tarde mas ya que 
+intente hacerlo sin compilar el .java aunque termino siendo mas difícil y al final si lo hice, de hecho al final tuve que corregir el codigo de nuevo ya que 
+no me daba el codigo postal si no por ejemplo la colonia como en la foto adjuntada.
+
+El hacer todo lo demás fue bastante fácil, no tuve ningún problema con eso.
+Siempre tengo problemas con la codificación, me parece bastante interesante mas no siento que se me de mucho y me termino complicando, la verdad es que incluso
+le pedí ayuda a un compañero de otra clase por eso no tarde tanto en mi opinión.
+
+Yo opino que debo mejorar mucho mas en la codificación, tal vez me serviría estudiar/aprender mas cuando tenga tiempo libre.
+
